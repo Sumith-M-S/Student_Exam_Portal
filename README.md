@@ -25,6 +25,8 @@ A **Comprehensive Academic Records and Results Processing Platform** built with 
 ![Course Details](SnapShots/Course_Details.png)
 ### 📝 Add Student Results
 ![Result Page](SnapShots/Result-Page.png)
+### 👨‍🎓View
+![Student Details](SnapShots/view.png)
 ### 👨‍🎓 Manage Student Details
 ![Student Details](SnapShots/Student_Details.png)
 
