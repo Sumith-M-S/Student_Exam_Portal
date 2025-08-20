@@ -19,18 +19,15 @@ A **Comprehensive Academic Records and Results Processing Platform** built with 
 
 ### 🔐 Login & Register Page
 ![Login Page](SnapShots/login.png)
-
+### 📊 Dashboard
+![Dashboard](SnapShots/DashBoard.png)
+### 📚 Manage Course Details
+![Course Details](SnapShots/Course_Details.png)
 ### 📝 Add Student Results
 ![Result Page](SnapShots/Result-Page.png)
-
 ### 👨‍🎓 Manage Student Details
 ![Student Details](SnapShots/Student_Details.png)
 
-### 📚 Manage Course Details
-![Course Details](SnapShots/Course_Details.png)
-
-### 📊 Dashboard
-![Dashboard](SnapShots/DashBoard.png)
 
 ---
 
